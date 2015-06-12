@@ -14,6 +14,7 @@
 		F7A76A2E1B2B228300FC27CF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F7A76A2D1B2B228300FC27CF /* Images.xcassets */; };
 		F7A76A311B2B228300FC27CF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F7A76A2F1B2B228300FC27CF /* LaunchScreen.xib */; };
 		F7A76A3D1B2B228300FC27CF /* myGitTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F7A76A3C1B2B228300FC27CF /* myGitTestTests.m */; };
+		F7A76A481B2B255300FC27CF /* xxxxxInterfaceController.m in Sources */ = {isa = PBXBuildFile; fileRef = F7A76A471B2B255300FC27CF /* xxxxxInterfaceController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		F7A76A361B2B228300FC27CF /* myGitTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = myGitTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7A76A3B1B2B228300FC27CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F7A76A3C1B2B228300FC27CF /* myGitTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = myGitTestTests.m; sourceTree = "<group>"; };
+		F7A76A461B2B255300FC27CF /* xxxxxInterfaceController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = xxxxxInterfaceController.h; sourceTree = "<group>"; };
+		F7A76A471B2B255300FC27CF /* xxxxxInterfaceController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = xxxxxInterfaceController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +86,8 @@
 			children = (
 				F7A76A241B2B228300FC27CF /* AppDelegate.h */,
 				F7A76A251B2B228300FC27CF /* AppDelegate.m */,
+				F7A76A461B2B255300FC27CF /* xxxxxInterfaceController.h */,
+				F7A76A471B2B255300FC27CF /* xxxxxInterfaceController.m */,
 				F7A76A271B2B228300FC27CF /* ViewController.h */,
 				F7A76A281B2B228300FC27CF /* ViewController.m */,
 				F7A76A2A1B2B228300FC27CF /* Main.storyboard */,
@@ -221,6 +226,7 @@
 			files = (
 				F7A76A291B2B228300FC27CF /* ViewController.m in Sources */,
 				F7A76A261B2B228300FC27CF /* AppDelegate.m in Sources */,
+				F7A76A481B2B255300FC27CF /* xxxxxInterfaceController.m in Sources */,
 				F7A76A231B2B228300FC27CF /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -20,6 +20,8 @@
     //it is just a test
     //comment here
     
+    int b = 3;
+    
     return YES;
 }
 
